@@ -1,0 +1,14 @@
+.container {
+    height: 100vh;
+}
+
+.row {
+    height: 20%;
+}
+
+.box {
+    height: 100%;
+    background-color: pink;
+    border: 1px solid black;
+    padding: 5px;
+}
